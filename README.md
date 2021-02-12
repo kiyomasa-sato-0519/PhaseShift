@@ -12,3 +12,7 @@ MT5 EA
 # Inquiry and Bugs
 
 This Repository <a href="https://github.com/kiyomasa-sato-0519/PhaseShift/issues">issues</a>
+
+# At your own risk
+
+Good luck
