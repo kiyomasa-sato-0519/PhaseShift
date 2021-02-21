@@ -7,7 +7,7 @@ MT5 EA
 1. regist <a href="https://clicks.affstrack.com/c?c=574014&l=ja&p=0">XMtrading</a>
 1. Download and install <a href="https://clicks.affstrack.com/c?c=574014&l=ja&p=4">MetaTrader 5</a>
 1. Installation [PhaseShift.ex5](PhaseShift.ex5) for MT5 EA Directory
-1. Recommended currency USDJPY
+1. Recommended currency USDJPY And Chart is M1
 
 # Inquiry and Bugs
 
