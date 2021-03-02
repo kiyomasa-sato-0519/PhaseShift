@@ -2,6 +2,8 @@
 
 MT5 EA
 
+日本語ドキュメント[README.ja.md](README.ja.md)
+
 # Installation
 
 1. regist <a href="https://clicks.affstrack.com/c?c=574014&l=ja&p=0">XMtrading</a> Standard type is recommended
