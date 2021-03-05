@@ -20,9 +20,9 @@ MT5 EA
 |--|--|
 |EA_Magic| Magic number |
 |Lot| Number of lots used in one order|
-|StopLoss|StopLoss(%)|
-|TakeProfit|TakeProfit(%)|
-|ResetProfit|ResetProfit (%) <small>(※1)</small>|
+|StopLoss|StopLoss(point)|
+|TakeProfit|TakeProfit(point)|
+|ResetProfit|ResetProfit (point) <small>(※1)</small>|
 |MaPeriod|MovingPeriod for calculating the Average (moving average) index|
 |AdxPeriod|Period for calculating ADX (Average Directional Movement) indicators|
 |TradeWait|Waiting time for the next order with the same magic number  <small>(※2)</small>|
