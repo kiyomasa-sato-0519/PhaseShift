@@ -19,9 +19,9 @@
 |--|--|
 |EA_Magic| マジックナンバー |
 |Lot|1度の注文で使うロット数|
-|StopLoss|ストップロス(%)|
-|TakeProfit|テイクプロフィット(%)|
-|ResetProfit|リセットプロフィット(%) <small>(※1)</small>|
+|StopLoss|ストップロス(point)|
+|TakeProfit|テイクプロフィット(point)|
+|ResetProfit|リセットプロフィット(point) <small>(※1)</small>|
 |MaPeriod|Moving Average（移動平均線）指標を計算する期間|
 |AdxPeriod|ADX (Average Directional Movement ）指標を計算する期間|
 |TradeWait|同じマジックナンバーで次の注文を行うまでの待ち時間  <small>(※2)</small>|
