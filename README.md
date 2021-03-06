@@ -11,7 +11,8 @@ MT5 EA
 1. Installation [PhaseShift.ex5](PhaseShift.ex5) for MT5 EA Directory
 1. Recommended currency USDJPY And Chart is M1
 1. run <b>XMTrading MT5</b> 
-1. Tools => Opstions => 『Allow WebRequest for listed URL:』 add `https://jw0tzq2rp3.execute-api.ap-northeast-1.amazonaws.com`
+1. Tools => Opstions => Expert Advisors => 『Allow WebRequest for listed URL:』 add `https://jw0tzq2rp3.execute-api.ap-northeast-1.amazonaws.com`
+
 
 
 # Parameters
