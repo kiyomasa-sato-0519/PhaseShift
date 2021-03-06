@@ -10,7 +10,7 @@
 1. こちらのファイルをMetaTrader5のEA用のディレクトリに設置してください。 [PhaseShift.ex5](PhaseShift.ex5) 
 1. 通貨は USDJPY そして チャートは 1分足(M1)を設定してください。
 1. <b>XMTrading MT5</b> を起動してください。
-1. ツール => オプション => 『WebRequestを許可するURLリスト』 に 新しいURLを追加する、から次のURLを追加してください。
+1. ツール => オプション => エキスパートアドバイザ => 『WebRequestを許可するURLリスト』 に 新しいURLを追加する、から次のURLを追加してください。
  `https://jw0tzq2rp3.execute-api.ap-northeast-1.amazonaws.com`
 
 # パラメータ
