@@ -26,7 +26,7 @@
 |AdxPeriod|ADX (Average Directional Movement ）指標を計算する期間|
 |TradeWait|同じマジックナンバーで次の注文を行うまでの待ち時間  <small>(※2)</small>|
 |SellAdx|売り注文時に判断するADXの値|
-|BuyAdx|回注文時に判断するADXの値|
+|BuyAdx|買い注文時に判断するADXの値|
 
 #### ※1 Profitがこの値を下回ったら利益の出る可能性が低い注文としてTakeProfitを買値/売値と同じにしてTakeProfit０にしProfitが0になった瞬間そのポジションは閉じられる
 ####  ※2 同じマジックナンバーでも買注文と売注文は区別するため、wait中でも同時に注文できる
