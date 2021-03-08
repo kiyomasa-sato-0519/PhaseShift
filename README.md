@@ -29,6 +29,8 @@ MT5 EA
 |TradeWait|Waiting time for the next order with the same magic number  <small>(※2)</small>|
 |SellAdx|ADX value to be judged at the time of sell order|
 |BuyAdx|ADX value to be judged at the time of ordering|
+|TotalLotLimit|TotalLotLimit 0 is no limit|
+|TotalPositionLimit|TotalPositionLimit 0 is no limit|
 
 #### ※1 If Profit falls below this value, it is unlikely that you will make a profit. TakeProfit is set to the same as the bid / ask price, TakeProfit is set to 0, and the position is closed the moment Profit becomes 0.
 ####  ※2 Even with the same magic number, buy orders and sell orders are distinguished, so you can order at the same time even during wait.
