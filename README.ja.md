@@ -27,6 +27,8 @@
 |TradeWait|同じマジックナンバーで次の注文を行うまでの待ち時間  <small>(※2)</small>|
 |SellAdx|売り注文時に判断するADXの値|
 |BuyAdx|買い注文時に判断するADXの値|
+|TotalLotLimit|保持ロット数の制限。0で制限なし|
+|TotalPositionLimit|保持ポジションの制限。0で制限なし|
 
 #### ※1 Profitがこの値を下回ったら利益の出る可能性が低い注文としてTakeProfitを買値/売値と同じにしてTakeProfit０にしProfitが0になった瞬間そのポジションは閉じられる
 ####  ※2 同じマジックナンバーでも買注文と売注文は区別するため、wait中でも同時に注文できる
