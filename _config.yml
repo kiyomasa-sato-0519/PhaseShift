@@ -1,1 +1,4 @@
+description: "MetaTrader5用EA。FX自動売買。無料。おすすめ。初心者もできる。"
 theme: jekyll-theme-cayman
+kramdown:
+  auto_ids: true

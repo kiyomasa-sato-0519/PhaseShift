@@ -47,23 +47,23 @@ title: ゼロから始めるFX
 #### ステップ1
 <a href="https://clicks.affstrack.com/c?c=571550&l=ja&p=1">リアル取引口座を開設する</a>こちらのリンクから必要事項を入力し、「ステップ2へ進む」
 
-<img src="./images/01_regist.png" />
+<img alt="登録ステップ1" src="./images/01_regist.png" />
 
 #### ステップ2
 
 必要事項を入力し、リアル口座開設を選択するとメールが来るため、ご確認ください。
 
-<img src="./images/02_regist_2.png" />
+<img alt="登録ステップ2" src="./images/02_regist_2.png" />
 
 #### マイナンバー入力
 
-<img src="./images/03_tax.png" />
+<img alt="登録マイナンバー入力" src="./images/03_tax.png" />
 
 #### 本人確認
 
 赤枠の口座の有効化をクリックして本人確認を開始してください。
 
-<img src="./images/04_mypage.png" />
+<img alt="登録本人確認" src="./images/04_mypage.png" />
 
 
 
@@ -71,7 +71,7 @@ title: ゼロから始めるFX
 
 赤線の部分に注目していただきたいのですが、ステップ1とステップ2で確認されている項目が違うため、例えば免許証を両方に設定するといった事はできません。
 
-<img src="./images/05_confirm.png" />
+<img alt="登録証明書類のアップロード" src="./images/05_confirm.png" />
 
 
 
