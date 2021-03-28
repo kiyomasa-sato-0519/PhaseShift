@@ -3,8 +3,6 @@ layout: default
 title: ゼロから始めるFX
 ---
 
-[toc]
-
 # ゼロから始めるFX
 
 <a href="https://clicks.affstrack.com/c?m=7952&c=584822"><img src="https://ads.affstrack.com/i/7952?c=584822" width="728" height="90" /></a>
